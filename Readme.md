@@ -10,7 +10,7 @@
 ```nvm use 8``` use version 8
 
 
-'''In VSCode open new file, in the terminal:
+```In VSCode open new file, in the terminal:
 
 
  cd my-app
@@ -19,4 +19,18 @@
  npm start
  
  
- '''brings you to localhost
+ brings you to localhost```
+
+## Git
+```
+
+git checkout -b branchName
+git branch
+
+git add .
+git commit -am "my message"
+
+git push origin mybranch
+
+
+```
