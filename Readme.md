@@ -8,3 +8,15 @@
 
 
 ```nvm use 8``` use version 8
+
+
+'''In VSCode open new file, in the terminal:
+
+
+ cd my-app
+ 
+ 
+ npm start
+ 
+ 
+ '''brings you to localhost
